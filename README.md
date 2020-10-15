@@ -1,6 +1,6 @@
 # gulp-cssmin
 
-**Duplicate of gulp-minify-css**
+**[@adamwoodnz/gulp-cssmin](https://github.com/adamwoodnz/gulp-cssmin) fork**
 
 [![Build Status](https://travis-ci.org/chilijung/gulp-cssmin.png?branch=master)](https://travis-ci.org/chilijung/gulp-cssmin)
 
