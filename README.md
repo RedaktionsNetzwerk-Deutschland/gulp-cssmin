@@ -19,7 +19,7 @@ npm install --save-dev gulp-cssmin
 
 ```js
 var gulp = require('gulp');
-var cssmin = require('gulp-cssmin');
+var cssmin = require('@rnd/gulp-cssmin');
 var rename = require('gulp-rename');
 
 gulp.task('default', function () {
