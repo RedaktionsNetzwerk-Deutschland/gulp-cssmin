@@ -8,10 +8,8 @@ minify css using gulp.
 
 ## Install
 
-Install with [npm](https://npmjs.org/package/gulp-cssmin)
-
 ```
-npm install --save-dev gulp-cssmin
+npm install --save-dev git+https://github.com/RedaktionsNetzwerk-Deutschland/gulp-cssmin.git
 ```
 
 
